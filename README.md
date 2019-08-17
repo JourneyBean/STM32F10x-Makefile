@@ -62,7 +62,7 @@ Define `compiler_root` to tell Makefile which compiler will be used.
 
 Define this to tell Makefile where to find library files like `core_cm3.c stm32f10x_gpio.h`
 
-(eg. `StdPeriph_root = /home/johnson/Downloads/STM32F10x_StdPeriph_Lib_V3.5.0`)
+(eg. `StdPeriph_root = /home/Downloads/STM32F10x_StdPeriph_Lib_V3.5.0`)
 
 ### 3 Start making files
 
